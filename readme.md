@@ -1,5 +1,5 @@
 # gSuite Enum
-A simple and straight forward tool used to enumerate existing users within gSuite email solutions.
+A simple and tool for enumerating email addresses of users within organisations that use GSuite.
 
 ## Usage
 ```
