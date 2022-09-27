@@ -3,7 +3,7 @@ A simple and straight forward tool used to enumerate existing users within gSuit
 
 ## Usage
 ```
-usage: gSuite Enum [-h|--help] [-e|--email "<value>"] [-U|--userlist "<value>"]
+usage: gsuite-enum [-h|--help] [-e|--email "<value>"] [-U|--userlist "<value>"]
                    [-o|--outfile "<value>"]
 
                    A simple tool to enumerate existing users within gSuite or
