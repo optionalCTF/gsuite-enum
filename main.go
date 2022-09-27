@@ -11,7 +11,7 @@ import (
 )
 
 func init() {
-	parser := argparse.NewParser("gSuite Enum", "A simple tool to enumerate existing users within gSuite or Gmail")
+	parser := argparse.NewParser("gsuite-enum", "A simple tool to enumerate existing users within gSuite or Gmail")
 
 	email := parser.String("e", "email", &argparse.Options{Required: false, Help: "Email address to query. Example: user@domain.com"})
 	userList := parser.String("U", "userlist", &argparse.Options{Required: false, Help: "Specify userlist to enumerate"})
