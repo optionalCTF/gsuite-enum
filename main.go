@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	gsuiteClient "gSuiteEnum/pkg"
+	gsuiteClient "gsuite-enum/pkg"
 
 	"github.com/akamensky/argparse"
 )

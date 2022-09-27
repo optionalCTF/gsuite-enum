@@ -1,4 +1,4 @@
-module gSuiteEnum
+module gsuite-enum
 
 go 1.13
 
